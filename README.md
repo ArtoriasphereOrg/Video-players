@@ -6,7 +6,10 @@
 **Website support on**: All device that able to run broswer
 
 
-# preview
+**Support custom desktop!**
+![image](https://github.com/user-attachments/assets/9ddf931c-fa10-49bf-8c0e-af3655709342)
+
+# Preview
 
 ![desktop_screenshot_2025-02-02_18-15-01](https://github.com/user-attachments/assets/b44feba2-cbe1-41e2-bb0b-f4af8234a2f2)
 ![desktop_screenshot_2025-02-02_18-15-29](https://github.com/user-attachments/assets/00861ba8-0b89-4009-9435-50238a219322)
