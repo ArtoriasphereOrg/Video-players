@@ -5,8 +5,18 @@
 
 **Website support on**: All device that able to run broswer
 
+# New update IOS, Android supported!
+** In Ipad and Tablet (Recommend) ** and Mobile may have weird UI
+
+
+![IMG_0215](https://github.com/user-attachments/assets/b614af84-ed3f-45c4-8c43-4677e582dff8)
+![IMG_0214](https://github.com/user-attachments/assets/61ac68a5-d171-4bad-8ce0-0d660386802c)
+![IMG_0221](https://github.com/user-attachments/assets/05002039-218f-47dc-ba89-254094811c29)
+
 
 **Support custom desktop!**
+
+
 ![image](https://github.com/user-attachments/assets/9ddf931c-fa10-49bf-8c0e-af3655709342)
 
 # Preview
