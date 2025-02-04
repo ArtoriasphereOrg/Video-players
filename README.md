@@ -6,8 +6,10 @@
 **Website support on**: All device that able to run broswer
 
 # New update IOS, Android supported!
-** In Ipad and Tablet (Recommend) ** and Mobile may have weird UI
-** In IOS requirement is Developer mode and App to install IPA file (altstore is recommend)
+
+
+**In Ipad and Tablet (Recommend)** and Mobile may have weird UI
+**In IOS requirement is Developer mode and App to install IPA file (altstore is recommend)
 
 [altstore](https://altstore.io/)
 
