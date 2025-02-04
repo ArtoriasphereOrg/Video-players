@@ -7,6 +7,10 @@
 
 # New update IOS, Android supported!
 ** In Ipad and Tablet (Recommend) ** and Mobile may have weird UI
+** In IOS requirement is Developer mode and App to install IPA file (altstore is recommend)
+
+[altstore](https://altstore.io/)
+
 
 
 ![IMG_0215](https://github.com/user-attachments/assets/b614af84-ed3f-45c4-8c43-4677e582dff8)
