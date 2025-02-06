@@ -5,7 +5,7 @@
 
 **Website support on**: All device that able to run broswer
 
-# New update IOS, Android supported!
+# update IOS, Android supported!
 
 
 **In Ipad and Tablet (Recommend)** and Mobile may have weird UI
@@ -13,6 +13,10 @@
 
 [altstore](https://altstore.io/)
 
+# update 2 MacOS!
+**Require trust developer in Privacy & Secuirty and scrolling download under security menu**
+
+![image](https://github.com/user-attachments/assets/7f29ca7a-2f2a-44d9-910e-94a7764ec99a)
 
 
 ![IMG_0215](https://github.com/user-attachments/assets/b614af84-ed3f-45c4-8c43-4677e582dff8)
