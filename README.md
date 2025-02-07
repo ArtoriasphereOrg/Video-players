@@ -16,6 +16,8 @@
 # update 2 MacOS!
 **Require trust developer in Privacy & Secuirty and scrolling download under security menu**
 
+# update 3 iOS online download version
+
 ![image](https://github.com/user-attachments/assets/7f29ca7a-2f2a-44d9-910e-94a7764ec99a)
 
 
